@@ -9,13 +9,13 @@
 5.	Tests = contient les fichiers de « Nettoyage Settings » (Tests)
 6.	Updater = programme pour mettre à jour Kinattente plus tard
 7.	Versions Finales =
-a.	Kinattente V2.0 = Release V2.0, soit le logiciel avant création du setup
-b.	Kinattente V2.0.exe (V 2.0)
-c.	Kinattente V2.0.iss (fichier création setup Inno Setup Script)
-d.	Kinattente_setup 1.0.exe (V 1.0)
-e.	Kinattente_setup 1.0.iss (…)
-8.	Creation_Tables.sql = fichier test pour créer la base de données, les accès, les tables … de MySQL. Maintenant c’est FillUpKinattente.sql le fichier officiel
-9.	data.sqlite.sql = fichier sql pour créer la structure des tables de SQLite
+-	Kinattente V2.0 = Release V2.0, soit le logiciel avant création du setup
+-	Kinattente V2.0.exe (V 2.0)
+-	Kinattente V2.0.iss (fichier création setup Inno Setup Script)
+-	Kinattente_setup 1.0.exe (V 1.0)
+-	Kinattente_setup 1.0.iss (…)
+9.	Creation_Tables.sql = fichier test pour créer la base de données, les accès, les tables … de MySQL. Maintenant c’est FillUpKinattente.sql le fichier officiel
+10.	data.sqlite.sql = fichier sql pour créer la structure des tables de SQLite
 
 
 <!--
