@@ -26,7 +26,7 @@ C'est un programme pour mettre à jour Kinattente plus tard.
 Dossier contenant toutes les versions précédentes et actuelle du logiciel Kianttente :
 -	Kinattente V2.0 : Release V2.0, soit le logiciel avant création du setup
 -	Kinattente V3.0 : Release V3.0, soit le logiciel avant création du setup
--	Reliquat : contient une commande .bat pour utilisée pour forcer le lancement de l'installation des bibliothèques VC_redist lors de l'installation de Kinattente. Contient également les bibliothèques VC_redist (mysql-installer-web-community-8.0.23.0.msi).
+-	Reliquat : contient une ancienne commande .bat utilisée pour forcer le lancement de l'installation des bibliothèques VC_redist (fichier .msi) lors de l'installation de Kinattente, parce que je n'arrivais pas à faire autrement. Aujourd'hui j'ai trouvé un VC_redist.exe directement inclus dans le dossier de Kinattente. Le dossier contient également les bibliothèques VC_redist associées (mysql-installer-web-community-8.0.23.0.msi).
 -	Kinattente_setup 1.0.exe (V 1.0)
 -	Kinattente_setup 1.0.iss (…)
 -	Kinattente V2.0.exe (V 2.0)
