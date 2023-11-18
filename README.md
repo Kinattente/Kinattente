@@ -1,10 +1,12 @@
 # Bienvenue sur la page de téléchargement des fichiers du logiciel Kinattente
+## Le fichier .exe pour intaller kinattente dans sa dernière version se trouve dans "Versions Finales", choisir "Kinattente VX.X" avec la version la plus récente
+Ici vous trouverez les fichiers qui m'ont servi à créer tout le logiciel, voici le listing de ce que vous pourrez trouver dans les dossiers :
 1.	Illustrations = fichiers images faits sous Illustrator
 2.	Integrid = fichier qss (QStyleSheet) donc CSS envisagé lors de mes recherches
 3.	Kinattente
-  a.	Debug
-  b.	Release
-  c.	Kinattente = tous les fichiers du logiciel
+- Debug
+- Release
+- Kinattente = tous les fichiers du logiciel
 4.	Nettoyage Settings R = Release du programme permettant le nettoyage du registre et du boot loader, utilisé pendant mes essais
 5.	Tests = contient les fichiers de « Nettoyage Settings » (Tests)
 6.	Updater = programme pour mettre à jour Kinattente plus tard
