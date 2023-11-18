@@ -1,0 +1,7 @@
+Le logo se trouve dans le fichier illustrator "Logo".
+Dans le cadre 2 se trouve l'image d'origine du modèle.
+Le modèle est enregistré à "Origine.jpg".
+"Logo.png" est le premier enregistrement avec les pièces au bon endroit mais un décalage du petit triangle au milieu apparait.
+Du coup j'ai décalé le petit triangle pour tricher et cela donne "Logo2.png".
+Celui-ci a été transformé en "output.ico" sur "https://icoconvert.com/Multi_Image_to_one_icon/"
+Logo 3 est le même avec un pixel en haut à droite pour centrer comme j'ai envie le logo sur l'icone internet
