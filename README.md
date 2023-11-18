@@ -8,7 +8,7 @@
 4.	Nettoyage Settings R = Release du programme permettant le nettoyage du registre et du boot loader, utilisé pendant mes essais
 5.	Tests = contient les fichiers de « Nettoyage Settings » (Tests)
 6.	Updater = programme pour mettre à jour Kinattente plus tard
-7.	Versions Finales =\r
+7.	Versions Finales =
 -	Kinattente V2.0 = Release V2.0, soit le logiciel avant création du setup
 -	Kinattente V2.0.exe (V 2.0)
 -	Kinattente V2.0.iss (fichier création setup Inno Setup Script)
