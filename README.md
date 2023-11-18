@@ -1,8 +1,12 @@
 # Bienvenue sur la page de téléchargement des fichiers du logiciel Kinattente
 ### Le fichier .exe pour intaller kinattente dans sa dernière version se trouve dans "Versions Finales", choisir "Kinattente VX.X" avec la version la plus récente
 Ici vous trouverez les fichiers qui m'ont servi à créer tout le logiciel, voici le listing de ce que vous pourrez trouver dans les dossiers :
-1.	Illustrations : ce sont les images faits sous Illustrator ainsi que leur fichiers .ai.
-2.	Integrid : c'est un fichier fichier qss (QStyleSheet) donc CSS que j'avais envisagé comme style possible pour le logiciel lors de mes recherches, il n'est pas optimisé.
+### Illustrations
+Ce sont les images faits sous Illustrator ainsi que leur fichiers .ai.
+
+### Integrid
+Contient un fichier qss (QStyleSheet) donc CSS que j'avais envisagé comme style possible pour le logiciel lors de mes recherches, il n'est pas optimisé.
+
 3.	Kinattente : c'est le dossier principal avec le code source du logiciel, la version Release et la version Debug généré par Qt.
 - Debug
 - Release
